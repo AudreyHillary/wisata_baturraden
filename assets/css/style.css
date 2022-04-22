@@ -1,0 +1,5 @@
+.container { width: 90% !important; }
+
+.nav-item.active { font-weight: bold; }
+
+.card { overflow: hidden;border: 0; }
